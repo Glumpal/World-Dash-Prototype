@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"Q:/World_Dash_Prototype/World-Dash-Prototype/Content/Platform.uasset",
+				"Q:/World_Dash_Prototype/World-Dash-Prototype/Content/Anchor.uasset",
+				"Q:/World_Dash_Prototype/World-Dash-Prototype/Content/Characters/Mannequins/Meshes/SKM_Manny_Simple.uasset",
+				"Q:/World_Dash_Prototype/World-Dash-Prototype/Content/Damage.uasset",
+				"Q:/World_Dash_Prototype/World-Dash-Prototype/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"Q:/World_Dash_Prototype/World-Dash-Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"Q:/World_Dash_Prototype/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"Q:/World_Dash_Prototype/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"Q:/World_Dash_Prototype/Content/ThirdPerson/Blueprints/BP_CameraManager.uasset",
