@@ -1423,3 +1423,1244 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.09-11.19.29:252][130]LogContentValidation: Display: Validating /Game/AI_Enemies/BP_Enemy.BP_Enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_F889D2B8C2F0A0D701_1117215359
 [2024.02.09-11.19.29:252][130]LogContentValidation: Display: Validating /Script/NavigationSystem.RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_F889D2B8C2F0A1D701-Default
 [2024.02.09-11.19.29:252][130]LogContentValidation: Display: Validating /Script/NavigationSystem.NavMeshBoundsVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_F889D2B8C2F0A1D701_1322235536
+[2024.02.09-11.23.57:535][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.02.09-11.23.57:540][379]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.023
+[2024.02.09-11.23.57:540][379]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI_Enemies/BP_Enemy] ([2] browsable assets)...
+[2024.02.09-11.23.57:618][379]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI_Enemies/BP_Enemy.BP_Enemy]
+[2024.02.09-11.23.57:618][379]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI_Enemies/BP_Enemy]
+[2024.02.09-11.23.57:618][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI_Enemies/BP_Enemy" FILE="Q:/World_Dash_Prototype/World-Dash-Prototype/Saved/Autosaves/Game/AI_Enemies/BP_Enemy_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.02.09-11.23.57:769][379]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI_Enemies/BP_Enemy_Auto3
+[2024.02.09-11.23.57:769][379]LogSavePackage: Moving 'Q:/World_Dash_Prototype/World-Dash-Prototype/Saved/BP_Enemy_Auto3C767F8B94EA5287C0214F5A128AF5ABD.tmp' to 'Q:/World_Dash_Prototype/World-Dash-Prototype/Saved/Autosaves/Game/AI_Enemies/BP_Enemy_Auto3.uasset'
+[2024.02.09-11.23.57:799][379]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/PO/YKHOO71H6V5EPWZWEXRW4H_Auto3
+[2024.02.09-11.23.57:799][379]LogSavePackage: Moving 'Q:/World_Dash_Prototype/World-Dash-Prototype/Saved/YKHOO71H6V5EPWZWEXRW4H_Auto3A783AA30497718E9EC823D887C430162.tmp' to 'Q:/World_Dash_Prototype/World-Dash-Prototype/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/PO/YKHOO71H6V5EPWZWEXRW4H_Auto3.uasset'
+[2024.02.09-11.23.57:822][379]LogFileHelpers: Auto-saving content packages took 0.282
+[2024.02.09-11.28.24:129][496]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:111][ 80]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:120][ 81]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:128][ 82]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:137][ 83]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:145][ 84]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:153][ 85]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:161][ 86]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:170][ 87]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:179][ 88]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:187][ 89]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:194][ 90]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:204][ 91]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:240][ 92]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:248][ 93]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:256][ 94]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:264][ 95]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:273][ 96]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:281][ 97]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:289][ 98]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:298][ 99]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:307][100]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:315][101]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:325][102]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:333][103]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:342][104]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:351][105]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:361][106]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:370][107]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:379][108]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:388][109]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:398][110]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:406][111]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:415][112]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:425][113]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:434][114]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:443][115]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:452][116]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:460][117]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:470][118]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:480][119]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:489][120]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:500][121]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:508][122]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:517][123]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:527][124]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:536][125]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:545][126]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:554][127]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:563][128]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:572][129]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:582][130]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:591][131]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:601][132]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:609][133]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:617][134]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:626][135]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:635][136]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:645][137]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:655][138]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:662][139]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:672][140]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:682][141]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:691][142]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:699][143]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:710][144]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:719][145]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:731][146]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.29:741][147]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.28.57:971][546]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: Failed to load '/Game/CharacterCourse/Animation/fall_loop': Can't find file.
+[2024.02.09-11.28.57:971][546]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: VerifyImport: Failed to load package for import object 'Package /Game/CharacterCourse/Animation/fall_loop'
+[2024.02.09-11.28.57:973][546]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: Failed to load '/Game/CharacterCourse/Animation/idle_king_2_Anim': Can't find file.
+[2024.02.09-11.28.57:973][546]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: VerifyImport: Failed to load package for import object 'Package /Game/CharacterCourse/Animation/idle_king_2_Anim'
+[2024.02.09-11.28.57:974][546]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: Failed to load '/Game/CharacterCourse/Animation/idle_king_anim_Anim': Can't find file.
+[2024.02.09-11.28.57:975][546]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: VerifyImport: Failed to load package for import object 'Package /Game/CharacterCourse/Animation/idle_king_anim_Anim'
+[2024.02.09-11.28.57:976][546]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: Failed to load '/Game/CharacterCourse/Animation/jump_loop_anim': Can't find file.
+[2024.02.09-11.28.57:976][546]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: VerifyImport: Failed to load package for import object 'Package /Game/CharacterCourse/Animation/jump_loop_anim'
+[2024.02.09-11.28.57:978][546]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: Failed to load '/Game/CharacterCourse/Animation/landing_loop_fixed_Anim': Can't find file.
+[2024.02.09-11.28.57:978][546]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: VerifyImport: Failed to load package for import object 'Package /Game/CharacterCourse/Animation/landing_loop_fixed_Anim'
+[2024.02.09-11.28.57:980][546]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: Failed to load '/Game/CharacterCourse/Animation/BS1D_IdleRun': Can't find file.
+[2024.02.09-11.28.57:980][546]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: VerifyImport: Failed to load package for import object 'Package /Game/CharacterCourse/Animation/BS1D_IdleRun'
+[2024.02.09-11.28.57:994][546]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2024.02.09-11.28.57:995][546]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2024.02.09-11.28.57:995][546]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2024.02.09-11.28.57:996][546]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Blendspace Player  references an unknown Blend Space
+[2024.02.09-11.28.57:996][546]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_4 while searching for node links - likely due to the node having outstanding errors.
+[2024.02.09-11.28.57:996][546]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_2 while searching for node links - likely due to the node having outstanding errors.
+[2024.02.09-11.28.57:996][546]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2024.02.09-11.28.57:996][546]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Missing allocated node for AnimGraphNode_BlendSpacePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2024.02.09-11.28.58:004][546]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/King_Stuff/ABP_King.ABP_King
+[2024.02.09-11.28.58:006][546]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-11.28.58:006][546]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-11.28.58:039][546]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-11.28.58:039][546]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-11.28.58:059][546]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.09-11.28.58:330][546]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-11.28.58:330][546]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-11.28.58:426][546]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-11.28.58:464][546]LogSlate: Took 0.004984 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.02.09-11.28.58:470][546]LogViewport: Scene viewport resized to 409x339, mode Windowed.
+[2024.02.09-11.29.00:291][647]LogViewport: Scene viewport resized to 408x350, mode Windowed.
+[2024.02.09-11.29.00:393][649]LogViewport: Scene viewport resized to 224x151, mode Windowed.
+[2024.02.09-11.29.00:420][650]LogViewport: Scene viewport resized to 195x119, mode Windowed.
+[2024.02.09-11.29.01:061][714]LogViewport: Scene viewport resized to 476x407, mode Windowed.
+[2024.02.09-11.29.01:627][777]LogSlate: Window 'ABP_King' being destroyed
+[2024.02.09-11.29.01:634][777]LogViewport: Scene viewport resized to 476x434, mode Windowed.
+[2024.02.09-11.29.01:654][778]LogViewport: Scene viewport resized to 476x431, mode Windowed.
+[2024.02.09-11.29.01:673][779]LogViewport: Scene viewport resized to 476x426, mode Windowed.
+[2024.02.09-11.29.01:695][780]LogViewport: Scene viewport resized to 476x423, mode Windowed.
+[2024.02.09-11.29.01:715][781]LogViewport: Scene viewport resized to 476x418, mode Windowed.
+[2024.02.09-11.29.01:735][782]LogViewport: Scene viewport resized to 476x415, mode Windowed.
+[2024.02.09-11.29.01:755][783]LogViewport: Scene viewport resized to 476x411, mode Windowed.
+[2024.02.09-11.29.01:773][784]LogViewport: Scene viewport resized to 476x407, mode Windowed.
+[2024.02.09-11.29.09:956][717]BlueprintLog: New page: Compile ABP_King
+[2024.02.09-11.29.09:961][717]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2024.02.09-11.29.09:961][717]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2024.02.09-11.29.09:962][717]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2024.02.09-11.29.09:963][717]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Blendspace Player  references an unknown Blend Space
+[2024.02.09-11.29.09:963][717]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_4 while searching for node links - likely due to the node having outstanding errors.
+[2024.02.09-11.29.09:963][717]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_2 while searching for node links - likely due to the node having outstanding errors.
+[2024.02.09-11.29.09:963][717]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2024.02.09-11.29.09:963][717]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Missing allocated node for AnimGraphNode_BlendSpacePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2024.02.09-11.29.09:999][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.02.09-11.29.19:881][863]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:048][705]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:057][706]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:065][707]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:073][708]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:081][709]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:090][710]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:098][711]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:108][712]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:118][713]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:127][714]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:136][715]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:144][716]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:152][717]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:161][718]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:169][719]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:179][720]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:187][721]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:195][722]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:205][723]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:213][724]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:222][725]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:230][726]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:240][727]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:248][728]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:257][729]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:265][730]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:274][731]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:283][732]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:292][733]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:300][734]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:309][735]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:317][736]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:326][737]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:334][738]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:343][739]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:352][740]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:360][741]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:369][742]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:377][743]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:386][744]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:419][745]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:427][746]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:435][747]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:444][748]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:452][749]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:460][750]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:469][751]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:477][752]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:486][753]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:494][754]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:502][755]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:511][756]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:520][757]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:528][758]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:538][759]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:547][760]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:557][761]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.30.26:567][762]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.33.26:825][259]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-11.33.26:825][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-11.33.26:876][259]LogViewport: Scene viewport resized to 476x420, mode Windowed.
+[2024.02.09-11.33.26:894][260]LogViewport: Scene viewport resized to 476x415, mode Windowed.
+[2024.02.09-11.33.26:929][261]LogViewport: Scene viewport resized to 476x409, mode Windowed.
+[2024.02.09-11.33.26:946][262]LogViewport: Scene viewport resized to 476x407, mode Windowed.
+[2024.02.09-11.33.40:843][902]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.02.09-11.34.46:952][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.02.09-11.34.46:958][900]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.031
+[2024.02.09-11.34.46:960][900]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/King_Stuff/ABP_King] ([2] browsable assets)...
+[2024.02.09-11.34.46:967][900]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/King_Stuff/ABP_King.ABP_King]
+[2024.02.09-11.34.46:967][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/King_Stuff/ABP_King]
+[2024.02.09-11.34.46:967][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/King_Stuff/ABP_King" FILE="Q:/World_Dash_Prototype/World-Dash-Prototype/Saved/Autosaves/Game/King_Stuff/ABP_King_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.02.09-11.34.48:680][900]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/King_Stuff/ABP_King_Auto4
+[2024.02.09-11.34.48:680][900]LogSavePackage: Moving 'Q:/World_Dash_Prototype/World-Dash-Prototype/Saved/ABP_King_Auto46BB75E284715DA617ABDB5ACF1D9FE24.tmp' to 'Q:/World_Dash_Prototype/World-Dash-Prototype/Saved/Autosaves/Game/King_Stuff/ABP_King_Auto4.uasset'
+[2024.02.09-11.34.48:697][900]LogFileHelpers: Auto-saving content packages took 1.740
+[2024.02.09-11.36.33:501][692]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-11.36.36:015][692]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim
+[2024.02.09-11.36.36:021][692]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim
+[2024.02.09-11.36.36:027][692]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim
+[2024.02.09-11.36.36:034][692]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim, at AnimationSequence/26842a505021d1804e8308bd10aeeef39e05b663
+[2024.02.09-11.36.36:035][692]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim
+[2024.02.09-11.36.36:039][692]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim, at AnimationSequence/99eaa927611031940ccde5fa4d08c9d74acae8dc
+[2024.02.09-11.36.36:043][692]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim
+[2024.02.09-11.36.36:045][692]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim, at AnimationSequence/81aed7e454f463261af497906491e7e1ce332c52
+[2024.02.09-11.36.36:050][692]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim, at AnimationSequence/374284e8266b973432212a1b57b81bdc7907f3a9
+[2024.02.09-11.36.36:050][692]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim, at AnimationSequence/f1e34905e3c5d8c428fc41bbbbcfd28805848c46
+[2024.02.09-11.36.36:051][692]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim
+[2024.02.09-11.36.36:057][692]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim, at AnimationSequence/6fd049e0dcd91d0dcb6b7f9c96123c5635633c8a
+[2024.02.09-11.36.36:059][692]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim
+[2024.02.09-11.36.36:065][692]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim
+[2024.02.09-11.36.36:071][692]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim, at AnimationSequence/9e4f19fffafcd1500df4fdc4fe3df3681b85597b
+[2024.02.09-11.36.36:073][692]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim
+[2024.02.09-11.36.36:074][692]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim, at AnimationSequence/adf285681516340d7399a50e1677bf43380bc455
+[2024.02.09-11.36.36:082][692]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim
+[2024.02.09-11.36.36:091][692]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim
+[2024.02.09-11.36.36:094][692]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim, at AnimationSequence/15f08247b9b7f15b78a122e436f72cda1011ccb1
+[2024.02.09-11.36.36:100][692]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim
+[2024.02.09-11.36.36:100][692]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim, at AnimationSequence/1aac77e09bdb3c97eb282161011727fb288512dc
+[2024.02.09-11.36.36:110][692]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim
+[2024.02.09-11.36.36:118][692]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim
+[2024.02.09-11.36.36:118][692]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim, at AnimationSequence/b0a12cbe5c0ad8521390789dc277a28830d21dcd
+[2024.02.09-11.36.36:126][692]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim, at AnimationSequence/1f42c6702bdacc438ef866a882ed3fba7c9ec390
+[2024.02.09-11.36.36:135][692]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim, at AnimationSequence/8d27b7febe2994bdd41742ad9383e21cceb4b2c3
+[2024.02.09-11.36.36:141][692]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim, at AnimationSequence/cf2936a93df3e1f7133ba8946e7b8927b6d31bc0
+[2024.02.09-11.36.36:141][692]LogSkeletalMesh: Building Skeletal Mesh SKM_Quinn...
+[2024.02.09-11.36.36:168][692]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn) ...
+[2024.02.09-11.36.37:156][692]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.02.09-11.36.38:725][692]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2024.02.09-11.36.38:727][692]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2024.02.09-11.36.41:739][692]LogSkeletalMesh: Built Skeletal Mesh [5.60s] /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2024.02.09-11.36.41:786][693]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/King_Stuff/Animation/idle_king_2_Anim.idle_king_2_Anim
+[2024.02.09-11.36.44:441][985]BlueprintLog: New page: Compile ABP_King
+[2024.02.09-11.36.44:448][985]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2024.02.09-11.36.44:448][985]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2024.02.09-11.36.44:448][985]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2024.02.09-11.36.44:449][985]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Blendspace Player  references an unknown Blend Space
+[2024.02.09-11.36.44:450][985]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_4 while searching for node links - likely due to the node having outstanding errors.
+[2024.02.09-11.36.44:450][985]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_2 while searching for node links - likely due to the node having outstanding errors.
+[2024.02.09-11.36.44:450][985]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2024.02.09-11.36.44:450][985]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Missing allocated node for AnimGraphNode_BlendSpacePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2024.02.09-11.36.44:486][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.02.09-11.37.00:733][975]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\Animation\BS1D_IdleRun.uasset: Failed to load '/Game/CharacterCourse/Animation/running_king_Anim': Can't find file.
+[2024.02.09-11.37.00:733][975]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\Animation\BS1D_IdleRun.uasset: VerifyImport: Failed to load package for import object 'Package /Game/CharacterCourse/Animation/running_king_Anim'
+[2024.02.09-11.37.00:735][975]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\Animation\BS1D_IdleRun.uasset: Failed to load '/Game/CharacterCourse/Animation/standing_king_Anim': Can't find file.
+[2024.02.09-11.37.00:735][975]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\Animation\BS1D_IdleRun.uasset: VerifyImport: Failed to load package for import object 'Package /Game/CharacterCourse/Animation/standing_king_Anim'
+[2024.02.09-11.37.00:736][975]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\Animation\BS1D_IdleRun.uasset: Failed to load '/Game/CharacterCourse/Animation/walking_king': Can't find file.
+[2024.02.09-11.37.00:736][975]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\Animation\BS1D_IdleRun.uasset: VerifyImport: Failed to load package for import object 'Package /Game/CharacterCourse/Animation/walking_king'
+[2024.02.09-11.37.00:739][975]LoadErrors: Error: BlendSpace BS1D_IdleRun has a sample with no/invalid animation. Recommend to remove sample point or set new animation.
+[2024.02.09-11.37.00:888][975]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-11.37.07:544][702]BlueprintLog: New page: Compile ABP_King
+[2024.02.09-11.37.07:549][702]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2024.02.09-11.37.07:549][702]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2024.02.09-11.37.07:549][702]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2024.02.09-11.37.07:552][702]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_4 while searching for node links - likely due to the node having outstanding errors.
+[2024.02.09-11.37.07:552][702]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_2 while searching for node links - likely due to the node having outstanding errors.
+[2024.02.09-11.37.07:552][702]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2024.02.09-11.37.07:586][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.02.09-11.37.24:540][626]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.02.09-11.37.25:959][785]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/King_Stuff/Animation/fall_loop.fall_loop
+[2024.02.09-11.37.32:589][533]BlueprintLog: New page: Compile ABP_King
+[2024.02.09-11.37.32:596][533]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2024.02.09-11.37.32:596][533]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2024.02.09-11.37.32:598][533]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_2 while searching for node links - likely due to the node having outstanding errors.
+[2024.02.09-11.37.32:598][533]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2024.02.09-11.37.32:632][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.02.09-11.40.17:231][719]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/King_Stuff/Animation/jump_loop_anim.jump_loop_anim
+[2024.02.09-11.40.22:958][369]BlueprintLog: New page: Compile ABP_King
+[2024.02.09-11.40.22:965][369]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2024.02.09-11.40.22:966][369]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\ABP_King.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2024.02.09-11.40.23:000][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.02.09-11.40.31:552][874]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/King_Stuff/Animation/landing_loop_fixed_Anim.landing_loop_fixed_Anim
+[2024.02.09-11.40.37:711][578]BlueprintLog: New page: Compile ABP_King
+[2024.02.09-11.40.37:752][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.02.09-11.40.39:355][752]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.09-11.40.39:399][752]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.09-11.40.39:408][752]LogWorldPartition: Display: GenerateStreaming started...
+[2024.02.09-11.40.39:408][752]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.02.09-11.40.39:408][752]LogWorldPartition: Display: GetPartitionedActors took 8 us (total: 19 us)
+[2024.02.09-11.40.39:408][752]LogWorldPartition: Display: GenerateStreaming took 155 us (total: 327 us)
+[2024.02.09-11.40.39:410][752]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.09-11.40.39:410][752]PIE: New page: PIE session: ThirdPersonMap (9 Feb 2024, 11:40:39)
+[2024.02.09-11.40.39:434][752]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.09-11.40.39:440][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005649s)
+[2024.02.09-11.40.39:440][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005693s)
+[2024.02.09-11.40.39:440][752]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-11.40.39:440][752]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-11.40.39:441][752]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.02.09-11.40.39:442][752]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.09-11.40.39:442][752]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.09-11.40.39:442][752]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.02.09-11.40.39:442][752]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.02.09-11.40.39:442][752]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.39 sec)
+[2024.02.09-11.40.39:442][752]LogPlayLevel: PIE: World Init took: (0.002704s)
+[2024.02.09-11.40.39:460][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.02.09-11.40.39:462][752]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.02.09-11.40.39:462][752]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.09-11.40.39:462][752]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.09-11.40.39:462][752]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.09-11.40.39:462][752]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.09-11.40.39:462][752]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.09-11.40.39:462][752]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.09-11.40.39:462][752]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.09-11.40.39:462][752]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.09-11.40.39:462][752]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.09-11.40.39:462][752]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.09-11.40.39:462][752]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.09-11.40.39:465][752]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.09-11.40.39:495][752]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2024.02.09-11.40.39:496][752]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.09-11.40.39:496][752]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.09-11.40.39:496][752]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.09-11.40.39:496][752]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.02.09-11.40.39:496][752]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.02.09-11.40.39:498][752]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.02.09-11.40.39:498][752]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.02.09-11.40.39:498][752]LogInit: FAudioDevice initialized with ID 3.
+[2024.02.09-11.40.39:498][752]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2024.02.09-11.40.39:498][752]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.02.09-11.40.39:501][752]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.02.09-11.40.39:503][752]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.02.09-11.40.39
+[2024.02.09-11.40.39:503][752]LogWorld: Bringing up level for play took: 0.002647
+[2024.02.09-11.40.39:506][752]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.02.09-11.40.39:510][752]PIE: Server logged in
+[2024.02.09-11.40.39:511][752]PIE: Play in editor total start time 0.111 seconds.
+[2024.02.09-11.40.39:529][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.39:529][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.39:530][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.39:530][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.39:530][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.39:530][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.39:531][752]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.39:538][753]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.39:538][753]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.39:538][753]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.39:539][753]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.39:539][753]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.39:539][753]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.39:540][753]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.42:954][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-11.40.42:954][ 79]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.09-11.40.42:954][ 79]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-11.40.42:955][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-11.40.42:955][ 79]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.02.09-11.40.42:957][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.09-11.40.42:961][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-11.40.42:978][ 79]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.09-11.40.42:978][ 79]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.02.09-11.40.42:978][ 79]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.02.09-11.40.42:980][ 79]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.02.09-11.40.42:985][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-11.40.42:987][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.02.09-11.40.43:077][ 79]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.43:090][ 80]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.02.09-11.40.43:099][ 80]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.52:687][ 56]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AI_Enemies/BP_Enemy.BP_Enemy_C
+[2024.02.09-11.40.52:687][ 56]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AI_Enemies/BP_Enemy.BP_Enemy_C
+[2024.02.09-11.40.52:688][ 56]LogActorFactory: Actor Factory spawned Blueprint /Game/AI_Enemies/BP_Enemy.BP_Enemy as actor: BP_Enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_1
+[2024.02.09-11.40.52:689][ 56]LogActorFactory: Actor Factory spawned Blueprint /Game/AI_Enemies/BP_Enemy.BP_Enemy as actor: BP_Enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_1
+[2024.02.09-11.40.53:403][117]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AI_Enemies/BP_Enemy.BP_Enemy_C
+[2024.02.09-11.40.53:403][117]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AI_Enemies/BP_Enemy.BP_Enemy_C
+[2024.02.09-11.40.53:410][117]LogActorFactory: Actor Factory spawned Blueprint /Game/AI_Enemies/BP_Enemy.BP_Enemy as actor: BP_Enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_F889D2B8C2F0A2D701_1686798714
+[2024.02.09-11.40.53:412][117]LogActorFactory: Actor Factory spawned Blueprint /Game/AI_Enemies/BP_Enemy.BP_Enemy as actor: BP_Enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_F889D2B8C2F0A2D701_1686798714
+[2024.02.09-11.40.57:574][578]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.09-11.40.57:600][578]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.09-11.40.57:609][578]LogWorldPartition: Display: GenerateStreaming started...
+[2024.02.09-11.40.57:609][578]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.02.09-11.40.57:609][578]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 26 us)
+[2024.02.09-11.40.57:609][578]LogWorldPartition: Display: GenerateStreaming took 237 us (total: 564 us)
+[2024.02.09-11.40.57:611][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.09-11.40.57:611][578]PIE: New page: PIE session: ThirdPersonMap (9 Feb 2024, 11:40:57)
+[2024.02.09-11.40.57:634][578]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.09-11.40.57:640][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005802s)
+[2024.02.09-11.40.57:640][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005845s)
+[2024.02.09-11.40.57:640][578]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-11.40.57:640][578]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-11.40.57:640][578]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.02.09-11.40.57:641][578]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.09-11.40.57:641][578]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.09-11.40.57:641][578]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.02.09-11.40.57:642][578]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.02.09-11.40.57:642][578]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.39 sec)
+[2024.02.09-11.40.57:642][578]LogPlayLevel: PIE: World Init took: (0.002651s)
+[2024.02.09-11.40.57:658][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.02.09-11.40.57:660][578]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.02.09-11.40.57:660][578]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.09-11.40.57:660][578]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.09-11.40.57:660][578]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.09-11.40.57:660][578]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.09-11.40.57:660][578]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.09-11.40.57:660][578]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.09-11.40.57:660][578]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.09-11.40.57:660][578]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.09-11.40.57:660][578]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.09-11.40.57:660][578]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.09-11.40.57:660][578]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.09-11.40.57:662][578]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.09-11.40.57:688][578]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2024.02.09-11.40.57:688][578]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.09-11.40.57:688][578]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.09-11.40.57:688][578]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.09-11.40.57:689][578]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.02.09-11.40.57:689][578]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.02.09-11.40.57:690][578]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.02.09-11.40.57:690][578]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.02.09-11.40.57:690][578]LogInit: FAudioDevice initialized with ID 4.
+[2024.02.09-11.40.57:690][578]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2024.02.09-11.40.57:690][578]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.02.09-11.40.57:692][578]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.02.09-11.40.57:694][578]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.02.09-11.40.57
+[2024.02.09-11.40.57:695][578]LogWorld: Bringing up level for play took: 0.002377
+[2024.02.09-11.40.57:696][578]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.02.09-11.40.57:699][578]PIE: Server logged in
+[2024.02.09-11.40.57:700][578]PIE: Play in editor total start time 0.1 seconds.
+[2024.02.09-11.40.57:717][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.57:717][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.57:718][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.57:718][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.57:718][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.57:719][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.57:719][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.57:732][579]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.57:732][579]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.57:732][579]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.57:732][579]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.57:733][579]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.57:734][579]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.40.57:734][579]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.02:574][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-11.41.02:574][151]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.09-11.41.02:574][151]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-11.41.02:574][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-11.41.02:574][151]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.02.09-11.41.02:580][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.09-11.41.02:583][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-11.41.02:600][151]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.09-11.41.02:600][151]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.02.09-11.41.02:600][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.02.09-11.41.02:601][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.02.09-11.41.02:606][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-11.41.02:608][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.02.09-11.41.02:672][151]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.02:703][152]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.02.09-11.41.02:710][152]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.17:287][611]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.09-11.41.17:314][611]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.09-11.41.17:322][611]LogWorldPartition: Display: GenerateStreaming started...
+[2024.02.09-11.41.17:323][611]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.02.09-11.41.17:323][611]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 31 us)
+[2024.02.09-11.41.17:323][611]LogWorldPartition: Display: GenerateStreaming took 175 us (total: 740 us)
+[2024.02.09-11.41.17:324][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.09-11.41.17:324][611]PIE: New page: PIE session: ThirdPersonMap (9 Feb 2024, 11:41:17)
+[2024.02.09-11.41.17:363][611]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.09-11.41.17:369][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005771s)
+[2024.02.09-11.41.17:369][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005809s)
+[2024.02.09-11.41.17:369][611]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-11.41.17:369][611]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-11.41.17:369][611]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.02.09-11.41.17:370][611]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.09-11.41.17:370][611]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.09-11.41.17:370][611]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.02.09-11.41.17:371][611]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.02.09-11.41.17:371][611]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.39 sec)
+[2024.02.09-11.41.17:371][611]LogPlayLevel: PIE: World Init took: (0.002707s)
+[2024.02.09-11.41.17:387][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.02.09-11.41.17:388][611]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.02.09-11.41.17:388][611]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.09-11.41.17:388][611]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.09-11.41.17:388][611]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.09-11.41.17:388][611]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.09-11.41.17:388][611]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.09-11.41.17:388][611]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.09-11.41.17:388][611]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.09-11.41.17:388][611]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.09-11.41.17:389][611]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.09-11.41.17:389][611]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.09-11.41.17:389][611]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.09-11.41.17:391][611]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.09-11.41.17:418][611]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2024.02.09-11.41.17:419][611]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.09-11.41.17:419][611]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.09-11.41.17:419][611]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.09-11.41.17:420][611]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.02.09-11.41.17:420][611]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.02.09-11.41.17:421][611]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.02.09-11.41.17:421][611]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.02.09-11.41.17:421][611]LogInit: FAudioDevice initialized with ID 5.
+[2024.02.09-11.41.17:421][611]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2024.02.09-11.41.17:421][611]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.02.09-11.41.17:424][611]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.02.09-11.41.17:426][611]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.02.09-11.41.17
+[2024.02.09-11.41.17:427][611]LogWorld: Bringing up level for play took: 0.002924
+[2024.02.09-11.41.17:429][611]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.02.09-11.41.17:433][611]PIE: Server logged in
+[2024.02.09-11.41.17:434][611]PIE: Play in editor total start time 0.119 seconds.
+[2024.02.09-11.41.17:452][611]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.17:453][611]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.17:453][611]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.17:454][611]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.17:454][611]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.17:455][611]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.17:455][611]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.17:462][612]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.17:463][612]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.17:463][612]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.17:464][612]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.17:464][612]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.17:465][612]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.17:465][612]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.18:503][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-11.41.18:503][726]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.09-11.41.18:503][726]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-11.41.18:503][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-11.41.18:504][726]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.02.09-11.41.18:507][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.09-11.41.18:510][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-11.41.18:526][726]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.09-11.41.18:526][726]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.02.09-11.41.18:526][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.02.09-11.41.18:528][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.02.09-11.41.18:532][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-11.41.18:535][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.02.09-11.41.18:585][726]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.18:612][727]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.02.09-11.41.18:622][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.27:636][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-11.41.27:696][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/King_Stuff/ABP_King" FILE="Q:/World_Dash_Prototype/World-Dash-Prototype/Content/King_Stuff/ABP_King.uasset" SILENT=true
+[2024.02.09-11.41.29:711][621]LogSavePackage: Moving output files for package: /Game/King_Stuff/ABP_King
+[2024.02.09-11.41.29:725][621]LogSavePackage: Moving 'Q:/World_Dash_Prototype/World-Dash-Prototype/Saved/ABP_KingBD03781947E5FAE145DD8E89AB0436A6.tmp' to 'Q:/World_Dash_Prototype/World-Dash-Prototype/Content/King_Stuff/ABP_King.uasset'
+[2024.02.09-11.41.29:749][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.11 sec (total: 2.32 sec)
+[2024.02.09-11.41.29:754][621]AssetCheck: New page: Asset Save: ABP_King
+[2024.02.09-11.41.29:754][621]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/King_Stuff/ABP_King.ABP_King
+[2024.02.09-11.41.55:829][714]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.09-11.41.55:857][714]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.09-11.41.55:866][714]LogWorldPartition: Display: GenerateStreaming started...
+[2024.02.09-11.41.55:866][714]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.02.09-11.41.55:866][714]LogWorldPartition: Display: GetPartitionedActors took 8 us (total: 40 us)
+[2024.02.09-11.41.55:866][714]LogWorldPartition: Display: GenerateStreaming took 155 us (total: 896 us)
+[2024.02.09-11.41.55:868][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.09-11.41.55:868][714]PIE: New page: PIE session: ThirdPersonMap (9 Feb 2024, 11:41:55)
+[2024.02.09-11.41.55:891][714]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.09-11.41.55:897][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005574s)
+[2024.02.09-11.41.55:897][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005615s)
+[2024.02.09-11.41.55:897][714]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-11.41.55:897][714]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-11.41.55:897][714]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.02.09-11.41.55:898][714]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.09-11.41.55:898][714]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.09-11.41.55:898][714]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.02.09-11.41.55:899][714]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.02.09-11.41.55:899][714]LogWorldPartition: Display: WorldPartition initialize took 968 us (total: 1.39 sec)
+[2024.02.09-11.41.55:899][714]LogPlayLevel: PIE: World Init took: (0.002410s)
+[2024.02.09-11.41.55:915][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.02.09-11.41.55:917][714]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.02.09-11.41.55:917][714]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.09-11.41.55:917][714]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.09-11.41.55:917][714]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.09-11.41.55:917][714]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.09-11.41.55:917][714]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.09-11.41.55:917][714]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.09-11.41.55:917][714]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.09-11.41.55:917][714]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.09-11.41.55:917][714]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.09-11.41.55:917][714]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.09-11.41.55:917][714]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.09-11.41.55:919][714]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.09-11.41.55:945][714]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2024.02.09-11.41.55:945][714]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.09-11.41.55:945][714]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.09-11.41.55:945][714]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.09-11.41.55:946][714]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.02.09-11.41.55:946][714]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.02.09-11.41.55:947][714]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.02.09-11.41.55:947][714]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.02.09-11.41.55:947][714]LogInit: FAudioDevice initialized with ID 6.
+[2024.02.09-11.41.55:947][714]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2024.02.09-11.41.55:947][714]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.02.09-11.41.55:950][714]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.02.09-11.41.55:952][714]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.02.09-11.41.55
+[2024.02.09-11.41.55:953][714]LogWorld: Bringing up level for play took: 0.002255
+[2024.02.09-11.41.55:954][714]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.02.09-11.41.55:958][714]PIE: Server logged in
+[2024.02.09-11.41.55:958][714]PIE: Play in editor total start time 0.101 seconds.
+[2024.02.09-11.41.55:976][714]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.55:976][714]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.55:976][714]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.55:976][714]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.55:977][714]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.55:977][714]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.55:978][714]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.55:984][715]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.55:984][715]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.55:985][715]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.55:985][715]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.55:986][715]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.55:986][715]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.55:986][715]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.58:381][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-11.41.58:381][991]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.09-11.41.58:382][991]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-11.41.58:382][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-11.41.58:382][991]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.02.09-11.41.58:385][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.09-11.41.58:388][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-11.41.58:405][991]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.09-11.41.58:405][991]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.02.09-11.41.58:405][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.02.09-11.41.58:407][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.02.09-11.41.58:411][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-11.41.58:413][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.02.09-11.41.58:460][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.41.58:489][992]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.02.09-11.41.58:498][992]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.02:972][474]Cmd: DELETE
+[2024.02.09-11.42.02:972][474]Cmd: ACTOR DELETE
+[2024.02.09-11.42.02:980][474]LogEditorActor: Deleted Actor: BP_Enemy_C
+[2024.02.09-11.42.03:000][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.02.09-11.42.03:001][474]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2024.02.09-11.42.05:761][789]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.09-11.42.05:787][789]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.09-11.42.05:795][789]LogWorldPartition: Display: GenerateStreaming started...
+[2024.02.09-11.42.05:795][789]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.02.09-11.42.05:795][789]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 46 us)
+[2024.02.09-11.42.05:795][789]LogWorldPartition: Display: GenerateStreaming took 161 us (total: 1 ms)
+[2024.02.09-11.42.05:797][789]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.02.09-11.42.05:797][789]LogPlayLevel: [PlayLevel] Compiling BP_Enemy before play...
+[2024.02.09-11.42.05:833][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.02.09-11.42.05:834][789]LogPlayLevel: PlayLevel: Blueprint regeneration took 37 ms (1 blueprints)
+[2024.02.09-11.42.05:834][789]PIE: New page: PIE session: ThirdPersonMap (9 Feb 2024, 11:42:05)
+[2024.02.09-11.42.05:834][789]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.09-11.42.05:840][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005268s)
+[2024.02.09-11.42.05:840][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005298s)
+[2024.02.09-11.42.05:840][789]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-11.42.05:840][789]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-11.42.05:840][789]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.02.09-11.42.05:841][789]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.09-11.42.05:841][789]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.09-11.42.05:841][789]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.02.09-11.42.05:842][789]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.02.09-11.42.05:842][789]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.39 sec)
+[2024.02.09-11.42.05:842][789]LogPlayLevel: PIE: World Init took: (0.002263s)
+[2024.02.09-11.42.05:857][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.02.09-11.42.05:858][789]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.02.09-11.42.05:858][789]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.09-11.42.05:858][789]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.09-11.42.05:858][789]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.09-11.42.05:858][789]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.09-11.42.05:858][789]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.09-11.42.05:858][789]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.09-11.42.05:858][789]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.09-11.42.05:858][789]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.09-11.42.05:858][789]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.09-11.42.05:858][789]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.09-11.42.05:858][789]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.09-11.42.05:861][789]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.09-11.42.05:886][789]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2024.02.09-11.42.05:887][789]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.09-11.42.05:887][789]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.09-11.42.05:887][789]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.09-11.42.05:887][789]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.02.09-11.42.05:887][789]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.02.09-11.42.05:889][789]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.02.09-11.42.05:889][789]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.02.09-11.42.05:889][789]LogInit: FAudioDevice initialized with ID 7.
+[2024.02.09-11.42.05:889][789]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2024.02.09-11.42.05:889][789]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.02.09-11.42.05:891][789]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.02.09-11.42.05:893][789]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.02.09-11.42.05
+[2024.02.09-11.42.05:893][789]LogWorld: Bringing up level for play took: 0.001894
+[2024.02.09-11.42.05:895][789]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.02.09-11.42.05:898][789]PIE: Server logged in
+[2024.02.09-11.42.05:899][789]PIE: Play in editor total start time 0.112 seconds.
+[2024.02.09-11.42.05:920][789]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.05:921][789]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.05:921][789]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.05:921][789]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.05:922][789]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.05:922][789]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.05:923][789]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.05:932][790]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.05:932][790]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.05:932][790]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.05:933][790]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.05:933][790]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.05:934][790]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.05:934][790]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.18:634][307]LogScript: Warning: Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	BP_CameraManager_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CameraManager_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_CameraManager.BP_CameraManager_C:UpdateCameraPos:00B4
+[2024.02.09-11.42.18:634][307]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:641][308]LogScript: Warning: Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	BP_CameraManager_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CameraManager_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_CameraManager.BP_CameraManager_C:UpdateCameraPos:00B4
+[2024.02.09-11.42.18:642][308]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:650][309]LogScript: Warning: Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	BP_CameraManager_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CameraManager_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_CameraManager.BP_CameraManager_C:UpdateCameraPos:00B4
+[2024.02.09-11.42.18:650][309]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:658][310]LogScript: Warning: Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	BP_CameraManager_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CameraManager_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_CameraManager.BP_CameraManager_C:UpdateCameraPos:00B4
+[2024.02.09-11.42.18:658][310]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:666][311]LogScript: Warning: Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	BP_CameraManager_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CameraManager_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_CameraManager.BP_CameraManager_C:UpdateCameraPos:00B4
+[2024.02.09-11.42.18:666][311]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:675][312]LogScript: Warning: Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	BP_CameraManager_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CameraManager_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_CameraManager.BP_CameraManager_C:UpdateCameraPos:00B4
+[2024.02.09-11.42.18:675][312]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:683][313]LogScript: Warning: Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	BP_CameraManager_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CameraManager_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_CameraManager.BP_CameraManager_C:UpdateCameraPos:00B4
+[2024.02.09-11.42.18:683][313]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:691][314]LogScript: Warning: Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	BP_CameraManager_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CameraManager_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_CameraManager.BP_CameraManager_C:UpdateCameraPos:00B4
+[2024.02.09-11.42.18:691][314]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:700][315]LogScript: Warning: Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	BP_CameraManager_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CameraManager_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_CameraManager.BP_CameraManager_C:UpdateCameraPos:00B4
+[2024.02.09-11.42.18:700][315]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:709][316]LogScript: Warning: Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	BP_CameraManager_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CameraManager_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_CameraManager.BP_CameraManager_C:UpdateCameraPos:00B4
+[2024.02.09-11.42.18:709][316]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:716][317]LogScript: Warning: Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	BP_CameraManager_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CameraManager_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_CameraManager.BP_CameraManager_C:UpdateCameraPos:00B4
+[2024.02.09-11.42.18:716][317]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:725][318]LogScript: Warning: Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	BP_CameraManager_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CameraManager_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_CameraManager.BP_CameraManager_C:UpdateCameraPos:00B4
+[2024.02.09-11.42.18:725][318]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:733][319]LogScript: Warning: Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	BP_CameraManager_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CameraManager_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_CameraManager.BP_CameraManager_C:UpdateCameraPos:00B4
+[2024.02.09-11.42.18:733][319]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:741][320]LogScript: Warning: Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	BP_CameraManager_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CameraManager_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_CameraManager.BP_CameraManager_C:UpdateCameraPos:00B4
+[2024.02.09-11.42.18:742][320]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:750][321]LogScript: Warning: Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	BP_CameraManager_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CameraManager_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_CameraManager.BP_CameraManager_C:UpdateCameraPos:00B4
+[2024.02.09-11.42.18:750][321]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:758][322]LogScript: Warning: Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	BP_CameraManager_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CameraManager_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_CameraManager.BP_CameraManager_C:UpdateCameraPos:00B4
+[2024.02.09-11.42.18:758][322]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:766][323]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:775][324]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:783][325]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:792][326]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:799][327]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:808][328]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:817][329]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:825][330]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:833][331]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:841][332]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:849][333]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:858][334]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:866][335]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:875][336]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.42.18:900][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-11.42.18:900][336]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.09-11.42.18:900][336]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-11.42.18:901][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-11.42.18:901][336]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.02.09-11.42.18:904][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.09-11.42.18:909][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-11.42.18:930][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-11.42.18:930][336]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.02.09-11.42.18:930][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.02.09-11.42.18:932][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.02.09-11.42.18:950][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.02.09-11.42.19:080][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.19:094][337]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.02.09-11.42.19:160][337]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.20:660][488]LogSlate: Window 'Message Log' being destroyed
+[2024.02.09-11.42.20:664][488]LogSlate: Window 'Message Log' being destroyed
+[2024.02.09-11.42.21:535][591]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.09-11.42.21:561][591]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.09-11.42.21:569][591]LogWorldPartition: Display: GenerateStreaming started...
+[2024.02.09-11.42.21:569][591]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.02.09-11.42.21:569][591]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 52 us)
+[2024.02.09-11.42.21:569][591]LogWorldPartition: Display: GenerateStreaming took 144 us (total: 1 ms)
+[2024.02.09-11.42.21:571][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.09-11.42.21:571][591]PIE: New page: PIE session: ThirdPersonMap (9 Feb 2024, 11:42:21)
+[2024.02.09-11.42.21:600][591]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.09-11.42.21:605][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005224s)
+[2024.02.09-11.42.21:605][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005263s)
+[2024.02.09-11.42.21:605][591]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-11.42.21:605][591]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-11.42.21:606][591]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.02.09-11.42.21:606][591]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.09-11.42.21:606][591]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.09-11.42.21:606][591]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.02.09-11.42.21:607][591]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.02.09-11.42.21:607][591]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.39 sec)
+[2024.02.09-11.42.21:607][591]LogPlayLevel: PIE: World Init took: (0.002289s)
+[2024.02.09-11.42.21:623][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.02.09-11.42.21:624][591]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.02.09-11.42.21:624][591]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.09-11.42.21:624][591]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.09-11.42.21:624][591]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.09-11.42.21:624][591]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.09-11.42.21:624][591]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.09-11.42.21:624][591]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.09-11.42.21:624][591]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.09-11.42.21:624][591]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.09-11.42.21:625][591]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.09-11.42.21:625][591]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.09-11.42.21:625][591]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.09-11.42.21:626][591]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.09-11.42.21:652][591]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2024.02.09-11.42.21:653][591]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.09-11.42.21:653][591]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.09-11.42.21:653][591]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.09-11.42.21:653][591]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.02.09-11.42.21:653][591]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.02.09-11.42.21:655][591]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.02.09-11.42.21:655][591]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.02.09-11.42.21:655][591]LogInit: FAudioDevice initialized with ID 8.
+[2024.02.09-11.42.21:655][591]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2024.02.09-11.42.21:655][591]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.02.09-11.42.21:657][591]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.02.09-11.42.21:658][591]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.02.09-11.42.21
+[2024.02.09-11.42.21:659][591]LogWorld: Bringing up level for play took: 0.002234
+[2024.02.09-11.42.21:660][591]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.02.09-11.42.21:664][591]PIE: Server logged in
+[2024.02.09-11.42.21:664][591]PIE: Play in editor total start time 0.104 seconds.
+[2024.02.09-11.42.21:680][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.21:680][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.21:681][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.21:681][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.21:681][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.21:682][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.21:682][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.21:688][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.21:689][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.21:689][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.21:690][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.21:690][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.21:691][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.21:691][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.46:339][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-11.42.46:339][534]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.09-11.42.46:339][534]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-11.42.46:339][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-11.42.46:341][534]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.02.09-11.42.46:344][534]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.09-11.42.46:350][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-11.42.46:441][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-11.42.46:441][534]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.02.09-11.42.46:441][534]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.02.09-11.42.46:443][534]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.02.09-11.42.46:471][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.02.09-11.42.46:519][534]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.42.46:522][535]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.02.09-11.42.46:531][535]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.43.00:656][177]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\GM_King.uasset: Failed to load '/Game/CharacterCourse/Blueprint/BP_King': Can't find file.
+[2024.02.09-11.43.00:656][177]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\GM_King.uasset: VerifyImport: Failed to load package for import object 'Package /Game/CharacterCourse/Blueprint/BP_King'
+[2024.02.09-11.43.00:659][177]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\GM_King.uasset: Failed to load '/Game/CharacterCourse/Blueprint/PC_King': Can't find file.
+[2024.02.09-11.43.00:659][177]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\GM_King.uasset: VerifyImport: Failed to load package for import object 'Package /Game/CharacterCourse/Blueprint/PC_King'
+[2024.02.09-11.43.00:665][177]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: Failed to load '/Game/CharacterCourse/Blueprint/ABP_King': Can't find file.
+[2024.02.09-11.43.00:665][177]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: VerifyImport: Failed to load package for import object 'Package /Game/CharacterCourse/Blueprint/ABP_King'
+[2024.02.09-11.43.00:667][177]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: Failed to load '/Game/CharacterCourse/Input/IA_JumpCC': Can't find file.
+[2024.02.09-11.43.00:667][177]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: VerifyImport: Failed to load package for import object 'Package /Game/CharacterCourse/Input/IA_JumpCC'
+[2024.02.09-11.43.00:669][177]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: Failed to load '/Game/CharacterCourse/Input/IA_LookUpCC': Can't find file.
+[2024.02.09-11.43.00:669][177]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: VerifyImport: Failed to load package for import object 'Package /Game/CharacterCourse/Input/IA_LookUpCC'
+[2024.02.09-11.43.00:671][177]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: Failed to load '/Game/CharacterCourse/Input/IA_MoveForwardCC': Can't find file.
+[2024.02.09-11.43.00:671][177]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: VerifyImport: Failed to load package for import object 'Package /Game/CharacterCourse/Input/IA_MoveForwardCC'
+[2024.02.09-11.43.00:672][177]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: Failed to load '/Game/CharacterCourse/Input/IA_MoveRightCC': Can't find file.
+[2024.02.09-11.43.00:672][177]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: VerifyImport: Failed to load package for import object 'Package /Game/CharacterCourse/Input/IA_MoveRightCC'
+[2024.02.09-11.43.00:674][177]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: Failed to load '/Game/CharacterCourse/Input/IA_Sprint': Can't find file.
+[2024.02.09-11.43.00:674][177]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: VerifyImport: Failed to load package for import object 'Package /Game/CharacterCourse/Input/IA_Sprint'
+[2024.02.09-11.43.00:676][177]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: Failed to load '/Game/CharacterCourse/Input/IA_TurnCC': Can't find file.
+[2024.02.09-11.43.00:676][177]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: VerifyImport: Failed to load package for import object 'Package /Game/CharacterCourse/Input/IA_TurnCC'
+[2024.02.09-11.43.00:677][177]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: Failed to load '/Game/CharacterCourse/Input/IM_ThirdPersonCC': Can't find file.
+[2024.02.09-11.43.00:677][177]LogLinker: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: VerifyImport: Failed to load package for import object 'Package /Game/CharacterCourse/Input/IM_ThirdPersonCC'
+[2024.02.09-11.43.00:684][177]LogBlueprint: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2024.02.09-11.43.00:685][177]LogBlueprint: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2024.02.09-11.43.00:685][177]LogBlueprint: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2024.02.09-11.43.00:685][177]LogBlueprint: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2024.02.09-11.43.00:685][177]LogBlueprint: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2024.02.09-11.43.00:685][177]LogBlueprint: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2024.02.09-11.43.00:685][177]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2024.02.09-11.43.00:686][177]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: [Compiler] Can't connect pins  Scale Value  and  Action Value : Convert Boolean to Float (single-precision)
+[2024.02.09-11.43.00:686][177]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: [Compiler] Can't connect pins  Action Value  and  Val : Convert Boolean to Float (single-precision)
+[2024.02.09-11.43.00:686][177]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2024.02.09-11.43.00:686][177]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2024.02.09-11.43.00:686][177]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: [Compiler] Can't connect pins  Action Value  and  Val : Convert Boolean to Float (single-precision)
+[2024.02.09-11.43.00:686][177]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2024.02.09-11.43.00:686][177]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: [Compiler] Can't connect pins  Action Value  and  Scale Value : Convert Boolean to Float (single-precision)
+[2024.02.09-11.43.00:686][177]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2024.02.09-11.43.00:686][177]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: [Compiler] Can't connect pins  Action Value  and  Scale Value : Convert Boolean to Float (single-precision)
+[2024.02.09-11.43.00:686][177]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2024.02.09-11.43.00:686][177]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: [Compiler] Can't connect pins  Val  and  Action Value : Convert Boolean to Float (single-precision)
+[2024.02.09-11.43.00:686][177]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: [Compiler] Can't connect pins  Val  and  Action Value : Convert Boolean to Float (single-precision)
+[2024.02.09-11.43.00:686][177]LogBlueprint: Error: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\King_Stuff\BP_King.uasset: [Compiler] Can't connect pins  Scale Value  and  Action Value : Convert Boolean to Float (single-precision)
+[2024.02.09-11.43.00:709][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.02.09-11.43.02:087][177]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.09-11.43.02:118][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.02.09-11.43.02:135][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.02.09-11.43.02:151][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.02.09-11.43.03:190][284]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/King_Stuff/Animation/jump_loop.jump_loop has no skeleton. This needs to fixed before an animation can be set
+[2024.02.09-11.43.07:888][823]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.09-11.43.07:915][823]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.09-11.43.07:922][823]LogWorldPartition: Display: GenerateStreaming started...
+[2024.02.09-11.43.07:922][823]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.02.09-11.43.07:922][823]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 59 us)
+[2024.02.09-11.43.07:923][823]LogWorldPartition: Display: GenerateStreaming took 153 us (total: 1 ms)
+[2024.02.09-11.43.07:925][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.09-11.43.07:925][823]PIE: New page: PIE session: ThirdPersonMap (9 Feb 2024, 11:43:07)
+[2024.02.09-11.43.07:948][823]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.09-11.43.07:953][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005283s)
+[2024.02.09-11.43.07:953][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005319s)
+[2024.02.09-11.43.07:953][823]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-11.43.07:953][823]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-11.43.07:954][823]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.02.09-11.43.07:955][823]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.09-11.43.07:955][823]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.09-11.43.07:955][823]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.02.09-11.43.07:955][823]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.02.09-11.43.07:955][823]LogWorldPartition: Display: WorldPartition initialize took 980 us (total: 1.39 sec)
+[2024.02.09-11.43.07:955][823]LogPlayLevel: PIE: World Init took: (0.002328s)
+[2024.02.09-11.43.07:972][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.02.09-11.43.07:974][823]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.02.09-11.43.07:974][823]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.09-11.43.07:974][823]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.09-11.43.07:974][823]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.09-11.43.07:974][823]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.09-11.43.07:974][823]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.09-11.43.07:974][823]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.09-11.43.07:974][823]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.09-11.43.07:974][823]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.09-11.43.07:974][823]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.09-11.43.07:974][823]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.09-11.43.07:974][823]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.09-11.43.07:976][823]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.09-11.43.08:002][823]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2024.02.09-11.43.08:002][823]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.09-11.43.08:002][823]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.09-11.43.08:002][823]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.09-11.43.08:002][823]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.02.09-11.43.08:002][823]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.02.09-11.43.08:004][823]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.02.09-11.43.08:004][823]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.02.09-11.43.08:004][823]LogInit: FAudioDevice initialized with ID 9.
+[2024.02.09-11.43.08:004][823]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonMap'.
+[2024.02.09-11.43.08:004][823]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.02.09-11.43.08:006][823]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.02.09-11.43.08:008][823]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.02.09-11.43.08
+[2024.02.09-11.43.08:008][823]LogWorld: Bringing up level for play took: 0.001965
+[2024.02.09-11.43.08:010][823]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.02.09-11.43.08:014][823]PIE: Server logged in
+[2024.02.09-11.43.08:014][823]PIE: Play in editor total start time 0.099 seconds.
+[2024.02.09-11.43.08:030][823]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.43.08:031][823]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.43.08:031][823]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.43.08:031][823]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.43.08:032][823]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.43.08:032][823]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.43.08:033][823]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.43.08:039][824]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.43.08:039][824]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.43.08:039][824]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.43.08:040][824]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.43.08:040][824]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.43.08:041][824]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.43.08:041][824]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.44.11:010][367]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:018][368]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:027][369]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:035][370]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:043][371]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:051][372]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:060][373]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:068][374]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:077][375]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:085][376]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:093][377]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:102][378]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:110][379]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:117][380]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:126][381]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:134][382]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:143][383]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:151][384]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:159][385]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:168][386]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:176][387]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:184][388]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:193][389]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:201][390]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:210][391]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:218][392]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:226][393]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:235][394]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:243][395]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:251][396]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:260][397]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:268][398]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:277][399]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:285][400]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:294][401]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:302][402]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:310][403]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:318][404]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:327][405]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:335][406]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:343][407]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:351][408]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:360][409]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:368][410]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:376][411]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:385][412]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:394][413]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_ThirdPersonCharacter_C_0 via property FollowTarget, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set Actor Location Graph:  UpdateCameraPos Function:  Update Camera Pos Blueprint:  BP_CameraManager
+[2024.02.09-11.44.11:427][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-11.44.11:427][413]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.09-11.44.11:427][413]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-11.44.11:428][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-11.44.11:431][413]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.02.09-11.44.11:434][413]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.09-11.44.11:443][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-11.44.11:623][413]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.09-11.44.11:623][413]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.02.09-11.44.11:623][413]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.02.09-11.44.11:624][413]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.02.09-11.44.11:629][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-11.44.11:695][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.02.09-11.44.11:837][413]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.44.11:854][414]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.02.09-11.44.11:918][414]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.44.13:765][617]LogSlate: Window 'Message Log' being destroyed
+[2024.02.09-11.44.13:770][617]LogSlate: Window 'Message Log' being destroyed
+[2024.02.09-11.44.19:019][234]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI_Enemies/BP_Enemy.BP_Enemy
+[2024.02.09-11.44.19:019][234]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-11.44.19:019][234]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-11.44.22:679][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-11.44.22:738][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI_Enemies/BP_Enemy" FILE="Q:/World_Dash_Prototype/World-Dash-Prototype/Content/AI_Enemies/BP_Enemy.uasset" SILENT=true
+[2024.02.09-11.44.22:882][642]LogSavePackage: Moving output files for package: /Game/AI_Enemies/BP_Enemy
+[2024.02.09-11.44.22:895][642]LogSavePackage: Moving 'Q:/World_Dash_Prototype/World-Dash-Prototype/Saved/BP_Enemy405A764B47A061B484D09BB92DD79663.tmp' to 'Q:/World_Dash_Prototype/World-Dash-Prototype/Content/AI_Enemies/BP_Enemy.uasset'
+[2024.02.09-11.44.22:919][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 240 ms (total: 2.56 sec)
+[2024.02.09-11.44.22:922][642]AssetCheck: New page: Asset Save: BP_Enemy
+[2024.02.09-11.44.22:922][642]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI_Enemies/BP_Enemy.BP_Enemy
+[2024.02.09-11.44.23:466][696]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-11.44.23:466][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-11.44.23:523][696]LogViewport: Scene viewport resized to 476x419, mode Windowed.
+[2024.02.09-11.44.23:554][697]LogViewport: Scene viewport resized to 476x411, mode Windowed.
+[2024.02.09-11.44.23:577][698]LogViewport: Scene viewport resized to 476x407, mode Windowed.
+[2024.02.09-11.46.06:809][588]LogMaterial: Warning: [AssetLog] Q:\World_Dash_Prototype\World-Dash-Prototype\Content\A_and_Mat.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.02.09-11.46.06:827][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.02.09-11.46.07:732][588]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.09-11.46.07:758][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.02.09-11.46.07:776][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.02.09-11.46.07:792][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.02.09-11.46.28:734][933]LogMaterial: Display: Material /Game/King_Stuff/02_-_Default.02_-_Default needed to have new flag set bUsedWithGeometryCollections !
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display: ================================================
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display: Total job queries 70, among them cache hits 6 (8.57%)
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display: Tracking 22 distinct input hashes that result in 14 distinct outputs (63.64%)
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display: RAM used: 417.31 KiB of 819.20 MiB budget. Usage: 0.05%
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display: Shaders Compiled: 14
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display: Jobs assigned 56, completed 14 (25.00%)
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display: Average time worker was idle: 1753.71 s
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 0.76 s
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display: Job execution time: average 0.50 s, max 0.67 s
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display: Job life time (pending + execution): average 0.58 s, max 0.76
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.13 s
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display: Jobs were issued in 24 batches (only local compilation was used), average 2.33 jobs/batch
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display: Average processing rate: 6.56 jobs/sec
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display: Total thread time: 4.369 s
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display: Total thread preprocess time: 0.246 s
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display: Percentage time preprocessing: 5.64%
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display: Effective parallelization: 2.05 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.36 sec, max 0.45 sec, min 0.31 sec)
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 0.33 sec, max 0.39 sec, min 0.31 sec)
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.27 sec, max 0.27 sec, min 0.26 sec)
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.20 sec, max 0.21 sec, min 0.20 sec)
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 40.74% of total time (compiled    5 times, average 0.36 sec, max 0.45 sec, min 0.31 sec)
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 37.71% of total time (compiled    5 times, average 0.33 sec, max 0.39 sec, min 0.31 sec)
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.26% of total time (compiled    2 times, average 0.27 sec, max 0.27 sec, min 0.26 sec)
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.28% of total time (compiled    2 times, average 0.20 sec, max 0.21 sec, min 0.20 sec)
+[2024.02.09-11.46.29:522][  4]LogShaderCompilers: Display: ================================================
+[2024.02.09-11.46.32:790][313]LogMaterial: Display: Material /Game/King_Stuff/Animation/02_-_Default.02_-_Default needed to have new flag set bUsedWithGeometryCollections !
+[2024.02.09-11.46.55:728][822]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.02.09-11.46.55:728][822]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.02.09-11.47.23:230][974]LogMaterial: Display: Material /Game/StarterContent/Materials/M_Metal_Burnished_Steel.M_Metal_Burnished_Steel needed to have new flag set bUsedWithGeometryCollections !
+[2024.02.09-11.47.30:201][581]LogMaterial: Display: Material /Game/StarterContent/Materials/M_Metal_Chrome.M_Metal_Chrome needed to have new flag set bUsedWithGeometryCollections !
+[2024.02.09-11.47.35:274][ 61]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.09-11.47.35:303][ 61]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.09-11.47.35:312][ 61]LogWorldPartition: Display: GenerateStreaming started...
+[2024.02.09-11.47.35:312][ 61]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.02.09-11.47.35:312][ 61]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 65 us)
+[2024.02.09-11.47.35:312][ 61]LogWorldPartition: Display: GenerateStreaming took 164 us (total: 1 ms)
+[2024.02.09-11.47.35:313][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.09-11.47.35:313][ 61]PIE: New page: PIE session: ThirdPersonMap (9 Feb 2024, 11:47:35)
+[2024.02.09-11.47.35:344][ 61]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.09-11.47.35:349][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005468s)
+[2024.02.09-11.47.35:349][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005503s)
+[2024.02.09-11.47.35:349][ 61]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-11.47.35:349][ 61]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-11.47.35:350][ 61]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.02.09-11.47.35:350][ 61]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.09-11.47.35:350][ 61]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.09-11.47.35:350][ 61]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.02.09-11.47.35:351][ 61]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.02.09-11.47.35:351][ 61]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.40 sec)
+[2024.02.09-11.47.35:351][ 61]LogPlayLevel: PIE: World Init took: (0.002547s)
+[2024.02.09-11.47.35:368][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.02.09-11.47.35:370][ 61]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.02.09-11.47.35:370][ 61]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.09-11.47.35:370][ 61]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.09-11.47.35:370][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.09-11.47.35:370][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.09-11.47.35:370][ 61]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.09-11.47.35:370][ 61]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.09-11.47.35:370][ 61]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.09-11.47.35:370][ 61]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.09-11.47.35:370][ 61]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.09-11.47.35:370][ 61]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.09-11.47.35:370][ 61]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.09-11.47.35:373][ 61]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.09-11.47.35:398][ 61]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2024.02.09-11.47.35:398][ 61]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.09-11.47.35:398][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.09-11.47.35:398][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.09-11.47.35:399][ 61]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.02.09-11.47.35:399][ 61]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.02.09-11.47.35:400][ 61]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.02.09-11.47.35:401][ 61]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.02.09-11.47.35:401][ 61]LogInit: FAudioDevice initialized with ID 10.
+[2024.02.09-11.47.35:401][ 61]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonMap'.
+[2024.02.09-11.47.35:401][ 61]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.02.09-11.47.35:403][ 61]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.02.09-11.47.35:405][ 61]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.02.09-11.47.35
+[2024.02.09-11.47.35:406][ 61]LogWorld: Bringing up level for play took: 0.002229
+[2024.02.09-11.47.35:407][ 61]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.02.09-11.47.35:410][ 61]PIE: Server logged in
+[2024.02.09-11.47.35:412][ 61]PIE: Play in editor total start time 0.109 seconds.
+[2024.02.09-11.47.35:429][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.47.35:430][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.47.35:430][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.47.35:430][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.47.35:431][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.47.35:431][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.47.35:431][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.47.35:432][ 61]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.47.35:438][ 62]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.47.35:438][ 62]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.47.35:439][ 62]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.47.35:439][ 62]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.47.35:439][ 62]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.47.35:440][ 62]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.47.35:440][ 62]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.47.35:441][ 62]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.47.38:579][432]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.47.43:597][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.47.44:597][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.47.44:598][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.47.44:598][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.47.44:598][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.47.44:598][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.47.45:598][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.48.02:661][321]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.48.05:685][682]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.48.06:413][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-11.48.06:413][767]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.02.09-11.48.06:414][767]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-11.48.06:414][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-11.48.06:414][767]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.02.09-11.48.06:417][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.09-11.48.06:421][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-11.48.06:439][767]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.09-11.48.06:439][767]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.02.09-11.48.06:439][767]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.02.09-11.48.06:441][767]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.02.09-11.48.06:445][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-11.48.06:448][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.02.09-11.48.06:497][767]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.48.06:509][768]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.02.09-11.48.06:518][768]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.09-11.48.08:482][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-11.48.08:529][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.02.09-11.48.08:547][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.02.09-11.48.08:564][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.02.09-11.48.08:681][999]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/32/TUIY59MX6EOAV8T8N09ATW
+[2024.02.09-11.48.08:701][999]LogSavePackage: Moving 'Q:/World_Dash_Prototype/World-Dash-Prototype/Saved/TUIY59MX6EOAV8T8N09ATW8AE9AFC2436AD2D5128F1F88D2A9E85E.tmp' to 'Q:/World_Dash_Prototype/World-Dash-Prototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/32/TUIY59MX6EOAV8T8N09ATW.uasset'
+[2024.02.09-11.48.08:742][999]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/HK/CCH6LQUVNY3PO1LYSEU20W
+[2024.02.09-11.48.08:760][999]LogSavePackage: Moving 'Q:/World_Dash_Prototype/World-Dash-Prototype/Saved/CCH6LQUVNY3PO1LYSEU20W6C098D9F4DBFD3E97D9FF98CAE2E6DEE.tmp' to 'Q:/World_Dash_Prototype/World-Dash-Prototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/HK/CCH6LQUVNY3PO1LYSEU20W.uasset'
+[2024.02.09-11.48.08:810][999]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WY/XB2O9PDPZDMRKSPQZ1KIM3
+[2024.02.09-11.48.08:830][999]LogSavePackage: Moving 'Q:/World_Dash_Prototype/World-Dash-Prototype/Saved/XB2O9PDPZDMRKSPQZ1KIM3B91A2E744160C3CB91760D82A08B7256.tmp' to 'Q:/World_Dash_Prototype/World-Dash-Prototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WY/XB2O9PDPZDMRKSPQZ1KIM3.uasset'
+[2024.02.09-11.48.08:863][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 379 ms (total: 2.94 sec)
+[2024.02.09-11.48.08:866][999]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.09-11.48.08:866][999]LogContentValidation: Display: Validating /Game/Anchor.Anchor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Anchor_C_UAID_F889D2B8C2F069D501_2098218575
+[2024.02.09-11.48.08:867][999]LogContentValidation: Display: Validating /Script/GeometryCollectionEngine.GeometryCollectionActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GeometryCollectionActor_UAID_F889D2B8C2F069D501_1501609574
+[2024.02.09-11.48.08:867][999]LogContentValidation: Display: Validating /Game/AI_Enemies/BP_Enemy.BP_Enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_F889D2B8C2F0A0D701_1117215359
+[2024.02.09-11.48.33:343][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.02.09-11.48.33:346][309]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.019
+[2024.02.09-11.48.33:346][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/King_Stuff/02_-_Default] ([1] browsable assets)...
+[2024.02.09-11.48.33:370][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/King_Stuff/02_-_Default.02_-_Default]
+[2024.02.09-11.48.33:370][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/King_Stuff/02_-_Default]
+[2024.02.09-11.48.33:370][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/King_Stuff/02_-_Default" FILE="Q:/World_Dash_Prototype/World-Dash-Prototype/Saved/Autosaves/Game/King_Stuff/02_-_Default_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2024.02.09-11.48.33:390][309]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/King_Stuff/02_-_Default_Auto5
+[2024.02.09-11.48.33:390][309]LogSavePackage: Moving 'Q:/World_Dash_Prototype/World-Dash-Prototype/Saved/02_-_Default_Auto5039324A14BD15C4DE30695BB05C9A9A0.tmp' to 'Q:/World_Dash_Prototype/World-Dash-Prototype/Saved/Autosaves/Game/King_Stuff/02_-_Default_Auto5.uasset'
+[2024.02.09-11.48.33:408][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/King_Stuff/Animation/02_-_Default] ([1] browsable assets)...
+[2024.02.09-11.48.33:427][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/King_Stuff/Animation/02_-_Default.02_-_Default]
+[2024.02.09-11.48.33:427][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/King_Stuff/Animation/02_-_Default]
+[2024.02.09-11.48.33:446][309]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/King_Stuff/Animation/02_-_Default_Auto5
+[2024.02.09-11.48.33:446][309]LogSavePackage: Moving 'Q:/World_Dash_Prototype/World-Dash-Prototype/Saved/02_-_Default_Auto59660F04A476ABF2C87EAFD91926C4B6C.tmp' to 'Q:/World_Dash_Prototype/World-Dash-Prototype/Saved/Autosaves/Game/King_Stuff/Animation/02_-_Default_Auto5.uasset'
+[2024.02.09-11.48.33:467][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Metal_Burnished_Steel] ([1] browsable assets)...
+[2024.02.09-11.48.33:486][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Metal_Burnished_Steel.M_Metal_Burnished_Steel]
+[2024.02.09-11.48.33:486][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Metal_Burnished_Steel]
+[2024.02.09-11.48.33:674][309]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/M_Metal_Burnished_Steel_Auto5
+[2024.02.09-11.48.33:675][309]LogSavePackage: Moving 'Q:/World_Dash_Prototype/World-Dash-Prototype/Saved/M_Metal_Burnished_Steel_Auto5A6AB9C0E46CEEACF24A2A5AB9063F811.tmp' to 'Q:/World_Dash_Prototype/World-Dash-Prototype/Saved/Autosaves/Game/StarterContent/Materials/M_Metal_Burnished_Steel_Auto5.uasset'
+[2024.02.09-11.48.33:693][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Metal_Chrome] ([1] browsable assets)...
+[2024.02.09-11.48.33:712][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Metal_Chrome.M_Metal_Chrome]
+[2024.02.09-11.48.33:712][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Metal_Chrome]
+[2024.02.09-11.48.33:843][309]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/M_Metal_Chrome_Auto5
+[2024.02.09-11.48.33:843][309]LogSavePackage: Moving 'Q:/World_Dash_Prototype/World-Dash-Prototype/Saved/M_Metal_Chrome_Auto554D0C8244ED0AFBB2F583295F1645247.tmp' to 'Q:/World_Dash_Prototype/World-Dash-Prototype/Saved/Autosaves/Game/StarterContent/Materials/M_Metal_Chrome_Auto5.uasset'
+[2024.02.09-11.48.33:862][309]LogFileHelpers: Auto-saving content packages took 0.516
